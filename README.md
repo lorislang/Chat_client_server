@@ -1,5 +1,3 @@
-Here’s a `README.md` for your project:
-
 ```markdown
 # Multi-Client Chat Application
 
