@@ -1,4 +1,3 @@
-```markdown
 # Multi-Client Chat Application
 
 This project is a multi-client chat application implemented in C using TCP sockets and POSIX threads. It consists of a server that handles multiple clients and a client program that connects to the server.
